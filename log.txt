@@ -1,0 +1,303 @@
+
+Artist: Lil Wayne
+Song: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+Album: Suicide Squad: The Album
+Preview: https://api.spotify.com/v1/tracks/7qUJQSNX9QNf46CC6FgH66
+-----------------------------
+Artist: Ty Dolla $ign
+Song: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview: https://api.spotify.com/v1/tracks/7t2bFihaDvhIrd2gn2CWJO
+-----------------------------
+Artist: Mac Miller
+Song: Cinderella (feat. Ty Dolla $ign)
+Album: The Divine Feminine
+Preview: https://api.spotify.com/v1/tracks/2lpygKqzPFtItQ4ss3cgfb
+-----------------------------
+Artist: Jeremih
+Song: Impatient
+Album: Late Nights: The Album
+Preview: https://api.spotify.com/v1/tracks/3WjyiSbfR74pjWXQ3IaFKJ
+-----------------------------
+Artist: Chance The Rapper
+Song: Blessings
+Album: Coloring Book
+Preview: https://api.spotify.com/v1/tracks/5IdQEHgtmj9th3OkfQKhf8
+-----------------------------
+Artist: Juicy J
+Song: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+Album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+Preview: https://api.spotify.com/v1/tracks/7zBQRGpYImAdIZc97FNj3V
+-----------------------------
+Artist: Ace of Base
+Song: The Sign
+Album: The Sign (US Album) [Remastered]
+Preview: https://api.spotify.com/v1/tracks/0hrBpAOgrt8RXigk83LLNE
+-----------------------------
+Artist: Major Lazer
+Song: Boom (feat. MOTi, Ty Dolla $ign, Wizkid, & Kranium)
+Album: Peace Is The Mission (Extended)
+Preview: https://api.spotify.com/v1/tracks/56pOVpGoStk1PQpLGIyKmP
+-----------------------------
+Artist: Chris Brown
+Song: Nothin' Like Me
+Album: Fan of A Fan The Album (Deluxe Version)
+Preview: https://api.spotify.com/v1/tracks/46Bm6sh2zZRXdBON5QIzIu
+-----------------------------
+Artist: Coldplay
+Song: Warning Sign
+Album: A Rush Of Blood To The Head
+Preview: https://api.spotify.com/v1/tracks/4bPkBHKLKd9WHizsvM2zV3
+-----------------------------
+Artist: Ace of Base
+Song: The Sign
+Album: Greatest Hits
+Preview: https://api.spotify.com/v1/tracks/3DYVWvPh3kGwPasp7yjahc
+-----------------------------
+Artist: Ty Dolla $ign
+Song: Blasé (feat. Future & Rae Sremmurd) - Louis The Child Remix
+Album: Blasé (feat. Future & Rae Sremmurd) [Remixes]
+Preview: https://api.spotify.com/v1/tracks/2NAZcL9tLUkdMMb5v3xFVG
+-----------------------------
+Artist: Lil Wayne
+Song: Sucker For Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)
+Album: Suicide Squad: The Album
+Preview: https://api.spotify.com/v1/tracks/3RpufFBpn0bfpG1IhK0cUw
+-----------------------------
+Artist: Albert King
+Song: Born Under A Bad Sign
+Album: King Of The Blues Guitar
+Preview: https://api.spotify.com/v1/tracks/776ESZrMd2rMNsbPOrckXG
+-----------------------------
+Artist: Terence Trent D'Arby
+Song: Sign Your Name
+Album: Do You Love Me Like You Say: The Very Best Of Terence Trent D'Arby
+Preview: https://api.spotify.com/v1/tracks/02NAaHGCj1VbOFeblij8wu
+-----------------------------
+Artist: Ty Dolla $ign
+Song: Horses In The Stable
+Album: Free TC
+Preview: https://api.spotify.com/v1/tracks/2lycPFVoPPDf6XVE9I8Amu
+-----------------------------
+Artist: Ty Dolla $ign
+Song: Horses In The Stable
+Album: Free TC (Deluxe)
+Preview: https://api.spotify.com/v1/tracks/1tAambDieS0Ei707KAC2NH
+-----------------------------
+Artist: The Game
+Song: My Flag/Da Homies (feat. Ty Dolla $ign, Jay 305, AD, Mitch E-Slick, Joe Moses, RJ & Skeme)
+Album: The Documentary 2.5
+Preview: https://api.spotify.com/v1/tracks/5tvORfrCTe1ObZ09Vbe59j
+-----------------------------
+Artist: The Barden Bellas
+Song: Bellas Regionals: The Sign/Eternal Flame/Turn The Beat Around
+Album: Pitch Perfect Soundtrack
+Preview: https://api.spotify.com/v1/tracks/3HAN4cAAtFwz7t8qYE38DU
+-----------------------------
+Artist: Autograph
+Song: Turn up the Radio
+Album: Sign In Please
+Preview: https://api.spotify.com/v1/tracks/7u0b4DthVvd2F2EzCiOx0Z
+-----------------------------
+
+Artist: Willie Nelson
+Song: On the Road Again
+Album: Willie Nelson - 16 Biggest Hits
+Preview: https://api.spotify.com/v1/tracks/51wQovDO0hf05pkZYvu1GI
+-----------------------------
+Artist: Canned Heat
+Song: On The Road Again
+Album: The Best Of Canned Heat
+Preview: https://api.spotify.com/v1/tracks/6IWxHgVbdKyUMydhVGXRaT
+-----------------------------
+Artist: Jack Broadbent
+Song: On the Road Again
+Album: Along the Trail of Tears
+Preview: https://api.spotify.com/v1/tracks/1BQkVDlEOtYKOaotnJuNzz
+-----------------------------
+Artist: Willie Nelson
+Song: On the Road Again
+Album: The Essential Willie Nelson
+Preview: https://api.spotify.com/v1/tracks/7MbEJl6xVNVRVZ1sqwqLMN
+-----------------------------
+Artist: Canned Heat
+Song: On The Road Again
+Album: Classic Rock
+Preview: https://api.spotify.com/v1/tracks/5Xqs727MBPhqnWzEtQxFyf
+-----------------------------
+Artist: Willie Nelson
+Song: On the Road Again
+Album: Country Superstars Biggest Hits (3 Pak)
+Preview: https://api.spotify.com/v1/tracks/35OXQrwxmcS6OfGtsuFsyg
+-----------------------------
+Artist: Canned Heat
+Song: On the Road Again - 2005 - Remaster
+Album: Very Best Of Canned Heat
+Preview: https://api.spotify.com/v1/tracks/1R45EyWM83EVqPOrDWtZTG
+-----------------------------
+Artist: REO Speedwagon
+Song: Back on the Road Again
+Album: The Essential REO Speedwagon
+Preview: https://api.spotify.com/v1/tracks/63tg0BOsXkohsjx3B87ui6
+-----------------------------
+Artist: Bob Dylan
+Song: On the Road Again
+Album: Bringing It All Back Home
+Preview: https://api.spotify.com/v1/tracks/1kvqv4axiWkxOdRz017sQZ
+-----------------------------
+Artist: Infected Mushroom
+Song: On The Road Again
+Album: Converting Vegetarians II
+Preview: https://api.spotify.com/v1/tracks/3pmyQluY3J3ggpr3ZWZnAP
+-----------------------------
+Artist: Katchafire
+Song: Feels Like
+Album: On The Road Again
+Preview: https://api.spotify.com/v1/tracks/2kBCf9ZyaZlkxkkmpO37TS
+-----------------------------
+Artist: Willie Nelson
+Song: On the Road Again
+Album: Forrest Gump - The Soundtrack
+Preview: https://api.spotify.com/v1/tracks/3MpK9vnxxgYvh0CNeGvx6G
+-----------------------------
+Artist: Straight No Chaser
+Song: On The Road Again / I Play The Road
+Album: The New Old Fashioned (Deluxe)
+Preview: https://api.spotify.com/v1/tracks/2E5ekbujkhHwNwFdper0x5
+-----------------------------
+Artist: REO Speedwagon
+Song: Back on the Road Again
+Album: Nine Lives
+Preview: https://api.spotify.com/v1/tracks/3nnTJqkOUOqw2BogwK5zz2
+-----------------------------
+Artist: Willie Nelson
+Song: On the Road Again
+Album: Pure... Country
+Preview: https://api.spotify.com/v1/tracks/35nA9XapFFlq6pcjVqTz7y
+-----------------------------
+Artist: Me First and the Gimme Gimmes
+Song: On The Road Again
+Album: Love Their Country
+Preview: https://api.spotify.com/v1/tracks/3E0sJTjSCCFpS4vzEePfjz
+-----------------------------
+Artist: Katchafire
+Song: On The Road Again
+Album: Best So Far
+Preview: https://api.spotify.com/v1/tracks/6D3ZY2xVhUuqDQUtBhCzSV
+-----------------------------
+Artist: Katchafire
+Song: On the Road Again
+Album: On The Road Again
+Preview: https://api.spotify.com/v1/tracks/0qI63A0xCyPsBTf2kUL0fA
+-----------------------------
+Artist: REO Speedwagon
+Song: Back on the Road Again
+Album: The Hits
+Preview: https://api.spotify.com/v1/tracks/4SIdRBnSVc1PZYHa0WgDid
+-----------------------------
+Artist: Willie Nelson
+Song: On the Road Again
+Album: 15 Classic Country Songs
+Preview: https://api.spotify.com/v1/tracks/6bJ9ZfB4uuea6ObaXySiRY
+-----------------------------
+
+Artist: Willie Nelson
+Song: On the Road Again
+Album: Willie Nelson - 16 Biggest Hits
+Preview: https://api.spotify.com/v1/tracks/51wQovDO0hf05pkZYvu1GI
+-----------------------------
+Artist: Canned Heat
+Song: On The Road Again
+Album: The Best Of Canned Heat
+Preview: https://api.spotify.com/v1/tracks/6IWxHgVbdKyUMydhVGXRaT
+-----------------------------
+Artist: Jack Broadbent
+Song: On the Road Again
+Album: Along the Trail of Tears
+Preview: https://api.spotify.com/v1/tracks/1BQkVDlEOtYKOaotnJuNzz
+-----------------------------
+Artist: Willie Nelson
+Song: On the Road Again
+Album: The Essential Willie Nelson
+Preview: https://api.spotify.com/v1/tracks/7MbEJl6xVNVRVZ1sqwqLMN
+-----------------------------
+Artist: Canned Heat
+Song: On The Road Again
+Album: Classic Rock
+Preview: https://api.spotify.com/v1/tracks/5Xqs727MBPhqnWzEtQxFyf
+-----------------------------
+Artist: Willie Nelson
+Song: On the Road Again
+Album: Country Superstars Biggest Hits (3 Pak)
+Preview: https://api.spotify.com/v1/tracks/35OXQrwxmcS6OfGtsuFsyg
+-----------------------------
+Artist: Canned Heat
+Song: On the Road Again - 2005 - Remaster
+Album: Very Best Of Canned Heat
+Preview: https://api.spotify.com/v1/tracks/1R45EyWM83EVqPOrDWtZTG
+-----------------------------
+Artist: REO Speedwagon
+Song: Back on the Road Again
+Album: The Essential REO Speedwagon
+Preview: https://api.spotify.com/v1/tracks/63tg0BOsXkohsjx3B87ui6
+-----------------------------
+Artist: Bob Dylan
+Song: On the Road Again
+Album: Bringing It All Back Home
+Preview: https://api.spotify.com/v1/tracks/1kvqv4axiWkxOdRz017sQZ
+-----------------------------
+Artist: Infected Mushroom
+Song: On The Road Again
+Album: Converting Vegetarians II
+Preview: https://api.spotify.com/v1/tracks/3pmyQluY3J3ggpr3ZWZnAP
+-----------------------------
+Artist: Katchafire
+Song: Feels Like
+Album: On The Road Again
+Preview: https://api.spotify.com/v1/tracks/2kBCf9ZyaZlkxkkmpO37TS
+-----------------------------
+Artist: Willie Nelson
+Song: On the Road Again
+Album: Forrest Gump - The Soundtrack
+Preview: https://api.spotify.com/v1/tracks/3MpK9vnxxgYvh0CNeGvx6G
+-----------------------------
+Artist: Straight No Chaser
+Song: On The Road Again / I Play The Road
+Album: The New Old Fashioned (Deluxe)
+Preview: https://api.spotify.com/v1/tracks/2E5ekbujkhHwNwFdper0x5
+-----------------------------
+Artist: REO Speedwagon
+Song: Back on the Road Again
+Album: Nine Lives
+Preview: https://api.spotify.com/v1/tracks/3nnTJqkOUOqw2BogwK5zz2
+-----------------------------
+Artist: Willie Nelson
+Song: On the Road Again
+Album: Pure... Country
+Preview: https://api.spotify.com/v1/tracks/35nA9XapFFlq6pcjVqTz7y
+-----------------------------
+Artist: Me First and the Gimme Gimmes
+Song: On The Road Again
+Album: Love Their Country
+Preview: https://api.spotify.com/v1/tracks/3E0sJTjSCCFpS4vzEePfjz
+-----------------------------
+Artist: Katchafire
+Song: On The Road Again
+Album: Best So Far
+Preview: https://api.spotify.com/v1/tracks/6D3ZY2xVhUuqDQUtBhCzSV
+-----------------------------
+Artist: Katchafire
+Song: On the Road Again
+Album: On The Road Again
+Preview: https://api.spotify.com/v1/tracks/0qI63A0xCyPsBTf2kUL0fA
+-----------------------------
+Artist: REO Speedwagon
+Song: Back on the Road Again
+Album: The Hits
+Preview: https://api.spotify.com/v1/tracks/4SIdRBnSVc1PZYHa0WgDid
+-----------------------------
+Artist: Willie Nelson
+Song: On the Road Again
+Album: 15 Classic Country Songs
+Preview: https://api.spotify.com/v1/tracks/6bJ9ZfB4uuea6ObaXySiRY
+-----------------------------

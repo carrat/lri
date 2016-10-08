@@ -81,11 +81,11 @@ function spotifyThisSong(song) {
 		    	myAlbum = "Album: " + data.tracks.items[i].album.name;
 		    	myPreview = "Preview: " + data.tracks.items[i].href;
 		    	mySpace = '-----------------------------';
-		    	console.log(myArtist + '/n');
-		    	console.log(mySong + '/n');
-		    	console.log(myAlbum + '/n');
-		    	console.log(myPreview + '/n');
-		    	console.log(mySpace + '/n');
+		    	console.log(myArtist);
+		    	console.log(mySong);
+		    	console.log(myAlbum);
+		    	console.log(myPreview);
+		    	console.log(mySpace);
 
 		    	mySongData = myArtist + os.EOL + mySong  + os.EOL + myAlbum  + os.EOL +  myPreview + os.EOL + mySpace;
 		    	myReturnData = mySongData;
@@ -119,45 +119,45 @@ function movieThis(movie) {
 //Rotten Tomatoes URL.
 //If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
-if (movie) {
+	if (movie) {
 
-} else {
-	movie = 'Mr Nobody';
-}
-
-
-var requestURL = 'http://www.omdbapi.com/?t=' + movie;
-
-var myMovieData ='';
-
-	request(requestURL, function (error, response, body) {
-	  if (!error && response.statusCode == 200) {
-
-	  	var body = JSON.parse(body);
-
-	  	myTitle = "Title: " + body.Title;
-		myYear = "Year: " + body.Year;
-    	myIMDB = "IMDB Rating: " + body.imdbRating;
-    	myCountry = "Country: " + body.Country;
-    	myLanguage = "Language: " + body.Language;
-    	myPlot = "Plot: " + body.Plot;
-    	myCast = "Cast: " + body.Actors;
-    	mySpace = '-----------------------------';
-    	console.log("Title: " + body.Title);
-		console.log("Year: " + body.Year);
-    	console.log("IMDB Rating: " + body.imdbRating);
-    	console.log("Country: " + body.Country);
-    	console.log("Language: " + body.Language);
-    	console.log("Plot: " + body.Plot);
-    	console.log("Cast: " + body.Actors);
-    	console.log('-----------------------------');
+	} else {
+		movie = 'Mr Nobody';
+	}
 
 
-	    myMovieData = myTitle + os.EOL + myYear  + os.EOL + myIMDB  + os.EOL +  myCountry + os.EOL + myLanguage + os.EOL + myPlot + os.EOL + myCast  + os.EOL + mySpace  + os.EOL;
-		logText(myMovieData);
+	var requestURL = 'http://www.omdbapi.com/?t=' + movie;
 
-	  }
-	})
+	var myMovieData ='';
+
+		request(requestURL, function (error, response, body) {
+		  if (!error && response.statusCode == 200) {
+
+		  	var body = JSON.parse(body);
+
+		  	myTitle = "Title: " + body.Title;
+			myYear = "Year: " + body.Year;
+	    	myIMDB = "IMDB Rating: " + body.imdbRating;
+	    	myCountry = "Country: " + body.Country;
+	    	myLanguage = "Language: " + body.Language;
+	    	myPlot = "Plot: " + body.Plot;
+	    	myCast = "Cast: " + body.Actors;
+	    	mySpace = '-----------------------------';
+	    	console.log("Title: " + body.Title);
+			console.log("Year: " + body.Year);
+	    	console.log("IMDB Rating: " + body.imdbRating);
+	    	console.log("Country: " + body.Country);
+	    	console.log("Language: " + body.Language);
+	    	console.log("Plot: " + body.Plot);
+	    	console.log("Cast: " + body.Actors);
+	    	console.log('-----------------------------');
+
+
+		    myMovieData = myTitle + os.EOL + myYear  + os.EOL + myIMDB  + os.EOL +  myCountry + os.EOL + myLanguage + os.EOL + myPlot + os.EOL + myCast  + os.EOL + mySpace  + os.EOL;
+			logText(myMovieData);
+
+		  }
+		})
 
 	
 
@@ -229,7 +229,19 @@ function runProgram(entry1, entry2) {
 }
 
 //run the program
-runProgram(process.argv[2], process.argv[3]);
+
+var nodeArgs = process.argv;
+
+// Create an empty string for holding the title
+var title = "";
+
+for (var i=3; i<nodeArgs.length; i++){
+
+	// Build a string with the title.
+	title = title + " " + nodeArgs[i];
+
+}
+runProgram(process.argv[2], title);
 
 
 
